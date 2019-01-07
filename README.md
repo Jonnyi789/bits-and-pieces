@@ -1,9 +1,7 @@
 # bits-and-pieces
 
-Heya!
+Heya! Welcome. 
 
-Marcia is late to her lecture today, again, but that's okay 'cause I'm too busy sitting here 
-dreaming about making lots of money to afford Warrioirs games tickets.
-#DubNation #richfan
+This is me, Johnny's GitHub. I specialize in Media Arts, Computer Graphics and Film VFX. They're my passions, as well as basketball, beautiful tennis courts, friends and slow jam RnB songs. 
 
-I want to be a Design Technologist. I want to be an intern@Pixar. I want to build a startup lets people rent cats and dogs.
+So stay, or stick around...
